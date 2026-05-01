@@ -6,5 +6,5 @@ The goal is to simulate real-world IAM operations such as joiner, mover, and lea
 
 ## Step 1: Create Roles and Users CSV
 Created two CSV files to represent simulated company data. Roles CSV mapped each department, Users CSV includes user's name, department, job title, and status.
-![Users CSV](01-iam-lifecycle/Screenshots/created/users-csv.png)
-![Roles CSV](screenshots/joiner/02-roles-image.png)
+![Users CSV](Screenshots/created/users-csv.png)
+![Roles CSV](Screenshots/created/roles-csv.png)
