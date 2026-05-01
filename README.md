@@ -13,4 +13,4 @@ These are the skills I gained throughout the labs:
 
 ## Labs Created
 ### Lab 01: User Lifecycle Management (Provisioning and Deprovisioning)
-Covers user provisioning and deprovisioning, joiner mover leaver workflows, group-based access control, and audit log review.
+Covers user provisioning and deprovisioning, joiner mover leaver workflows, group-based access control, and audit log review through Microsoft's Entra ID
