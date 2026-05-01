@@ -1,0 +1,5 @@
+Department,Group,AccessLevel
+Engineering,eng-team,Code Repositories and Dev Tools
+Finance,finance-team,Finance Applications Only
+HR,hr-team,HRIS and Recruiting Tools
+Sales,sales-team,CRM and Sales Tools
