@@ -1,5 +1,7 @@
 # Azure Entra ID Labs
 ## Overview
-This repository is my set of hands-on lab focused on identity and access managment using Microsoft Azure and Entra ID.
+This repository is a collection of hands-on labs focused on identity and access management using Microsoft Azure and Entra ID.
 
-These labs are made to mimic real-world situations regarding IAM operations by working in Entra ID and progressively implementing more advanced skills and operations.
+These labs are designed to mimic real-world IAM operations by working directly in Entra ID and progressively implementing more advanced skills and concepts.
+
+Each lab builds upon the same foundational knowledge and reflects how identity management is handled in real enterprise environments.
