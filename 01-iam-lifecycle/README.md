@@ -2,4 +2,6 @@
 ## Objective
 This lab focuses on managing the full user lifecycle in Microsoft Entra ID, including user and group creation, transferring users between departments, and deprovisioning accounts. The goal is to simulate real-world IAM operations such as joiner, mover, and leaver workflows while applying access control and least privilege principles throughout.
 
+I set up fake users and groups inside my own controlled environment to represent a company with different departments inside of Entra ID.
+
 ## Step 1: 
