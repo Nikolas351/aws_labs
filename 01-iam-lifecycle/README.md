@@ -4,4 +4,5 @@ This lab focuses on managing the full user lifecycle in Microsoft Entra ID, incl
 
 The goal is to simulate real-world IAM operations such as joiner, mover, and leaver workflows while applying access control and least privilege principles throughout. This lab was conducted in a personal Microsoft Entra ID tenant using simulated users and groups to represent a company with multiple departments.
 
-## Step 1: 
+## Step 1: Create Roles and Users CSV
+Created two CSV files to represent simulated company data. Roles CSV includes company roles, Users Csv includes user data.
