@@ -12,4 +12,4 @@ These are the skills I gained throughout the labs:
 
 
 ## Labs Created
-## Lab 01: User Lifecycle Management (Provisioning and Deprovisioning)
+### Lab 01: User Lifecycle Management (Provisioning and Deprovisioning)
