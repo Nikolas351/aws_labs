@@ -103,4 +103,15 @@ Uncheck the Account enabled box
 
 # Part 4: Audit Log Review
 
+Reviewed Audit Logs of both Users and Groups section to verify all changes made throughout all steps.
+
+Audit Log Entries:
+
+<table>
+  <tr>
+    <td><img src="Screenshots/audit logs/full-log.png" width="500"/></td>
+    <td><img src="Screenshots/audit logs/audit-log-groups.png" width="500"/></td>
+  </tr>
+</table>
+
 
