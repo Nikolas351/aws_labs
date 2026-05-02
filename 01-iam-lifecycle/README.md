@@ -43,6 +43,7 @@ List of all created groups:
 
 ## Step 4: Add user to groups
 Click on All Groups → Choose specific group
+
 Go to members tab
 Click add members
 Select the appropriate user
