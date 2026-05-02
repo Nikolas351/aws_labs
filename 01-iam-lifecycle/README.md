@@ -5,7 +5,7 @@ This lab focuses on managing the full user lifecycle in Microsoft Entra ID, incl
 The goal is to simulate real-world IAM operations such as joiner, mover, and leaver workflows while applying access control and least privilege principles throughout. This lab was conducted in a personal Microsoft Entra ID tenant using simulated users and groups to represent a company with multiple departments.
 
 ## Step 1: Create Roles and Users CSV
-Created two CSV files to represent simulated company data. Roles CSV mapped each department, Users CSV includes user's name, department, job title, and status.
+Created two CSV files to represent simulated company data. Roles CSV mapped each department, Users CSV mapped user's name, department, job title, and status.
 
 ![Users CSV](Screenshots/created/users-csv.png)
 
@@ -54,7 +54,7 @@ Select the appropriate user
 
 # Part 2: User Changing Departments
 
-## Step 1: Change Users Properties
+## Step 1: Change Users' Properties
 
 Click on Users → Choose Appropriate User
 
@@ -80,7 +80,7 @@ Click Members → Add Members → Choose Appropriate User
 
 # Part 3: Leaver — Deprovision and Disable User Account
 
-## Step 1: Remove User From Group Assigment
+## Step 1: Remove User From Group Assignment
 
 Click Groups → All Groups → Choose Users Assigned Group
 
