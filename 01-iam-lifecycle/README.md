@@ -54,3 +54,10 @@ Select the appropriate user
 
 # Part 2: User Changing Departments
 
+## Step 1: Change Users Properties
+
+Click on Users → Choose Appropriate Users
+
+Click Edit Properties → All
+
+Change corresponding properties to appropriate department
