@@ -17,4 +17,5 @@ Fill in:
 - User principal name
 - User display name
 - User properties (User type, Job Title, Department)
+
 Set or auto generate password
