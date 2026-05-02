@@ -64,3 +64,8 @@ Change corresponding properties to appropriate department (Job Title, Department
 
 <img src="Screenshots/mover/dan-before-swap.png" width="500">  <img src="Screenshots/mover/dan-after-swap.png" width="500">
 
+## Step 2: Mover — Remove User From Original Department and Assign to New Department
+
+Click Groups → All Groups → Choose Users Old Department Group
+
+Click Members → Checkbox Users → Remove
