@@ -21,5 +21,5 @@ Fill in:
 Set or auto generate password
 
 <img src="Screenshots/created/user-create.png" width="450" height="350">
-<img src="Screenshots/created/users-list.png" width="500" height="500">
+<img src="Screenshots/created/users-list.png" width="500" height="700">
 
