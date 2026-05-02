@@ -40,3 +40,10 @@ Select:
 List of all created groups:
 
 <img src="Screenshots/created/group-list.png" width="800">
+
+## Step 4: Add user to groups
+Click on All Groups → Choose specific group
+Go to members tab
+Click add members
+Select the appropriate user
+
