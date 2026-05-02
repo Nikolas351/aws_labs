@@ -97,7 +97,7 @@ Click edit on Account status
 Uncheck the Account enabled box
 
 <p>
-  <img src="Screenshots/leaver/eve-leave.png" width="400"/>
-  <img src="Screenshots/leaver/eve-disabled.png" width="400"/>
+  <img src="Screenshots/leaver/eve-leave.png" width="500"/>
+  <img src="Screenshots/leaver/eve-disabled.png" width="550"/>
 </p>
 
