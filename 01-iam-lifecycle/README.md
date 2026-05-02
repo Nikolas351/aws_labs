@@ -62,5 +62,5 @@ Click Edit Properties → All
 
 Change corresponding properties to appropriate department (Job Title, Department, etc)
 
-<img src="Screenshots/mover/dan-before-swap.png" width="450" height="450">  <img src="Screenshots/mover/dan-after-swap.png" width="450" height="450">
+<img src="Screenshots/mover/dan-before-swap.png" width="600">  <img src="Screenshots/mover/dan-after-swap.png" width="600">
 
