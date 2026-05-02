@@ -68,4 +68,7 @@ Change corresponding properties to appropriate department (Job Title, Department
 
 Click Groups → All Groups → Choose Users Old Department Group
 
-Click Members → Checkbox Users → Remove
+Click Members → Checkbox User → Remove
+
+<img src="Screenshots/mover/dan-removal.png" width="800"> 
+
