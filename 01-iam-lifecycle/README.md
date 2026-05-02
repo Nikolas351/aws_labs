@@ -107,8 +107,12 @@ Reviewed Audit Logs of both Users and Groups section to verify all changes made 
 
 Audit Log Entries:
 
-   <img src="Screenshots/audit logs/full-log.png" width="500"> 
-   <img src="Screenshots/audit logs/audit-log-groups.png" width="500>
+  <table>
+  <tr>
+    <td><img src="Screenshots/audit logs/full-log.png" width="500"/></td>
+    <td><img src="Screenshots/audit logs/audit-log-groups.png" width="500"/></td>
+  </tr>
+</table>
      
 Audit Log of Account being disabled showing AccountEnabled chaning from true to false:
 
