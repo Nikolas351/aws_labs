@@ -86,4 +86,4 @@ Click Groups → All Groups → Choose Users Assigned Group
 
 Click Members → Checkbox User → Remove
 
-<img src="Screenshots/leaver/eve-group-removal.png" width="800"> 
+<img src="Screenshots/leaver/eve-group-remove.png" width="800"> 
