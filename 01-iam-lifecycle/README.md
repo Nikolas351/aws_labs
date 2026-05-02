@@ -87,3 +87,17 @@ Click Groups → All Groups → Choose Users Assigned Group
 Click Members → Checkbox User → Remove
 
 <img src="Screenshots/leaver/eve-group-remove.png" width="800"> 
+
+## Step 2: Disable Users Account
+
+Click on Users → Choose Appropriate User
+
+Click edit on Account status
+
+Uncheck the Account enabled box
+
+<p>
+  <img src="Screenshots/leaver/eve-leave.png" width="400"/>
+  <img src="Screenshots/leaver/eve-disabled.png" width="400"/>
+</p>
+
