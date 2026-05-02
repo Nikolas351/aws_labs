@@ -61,3 +61,8 @@ Click on Users → Choose Appropriate User
 Click Edit Properties → All
 
 Change corresponding properties to appropriate department (Job Title, Department, etc)
+
+<img src="Screenshots/created/dan-before.png" width="450" height="350">
+
+<img src="Screenshots/created/dan-after.png" width="450" height="350">
+
