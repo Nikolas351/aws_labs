@@ -52,5 +52,5 @@ Select the appropriate user
 
 <img src="Screenshots/created/eng-team.png" width="800">
 
-## Part 2: User Changing Departments
+# Part 2: User Changing Departments
 
