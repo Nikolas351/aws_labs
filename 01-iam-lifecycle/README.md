@@ -56,7 +56,7 @@ Select the appropriate user
 
 ## Step 1: Change Users Properties
 
-Click on Users → Choose Appropriate Users
+Click on Users → Choose Appropriate User
 
 Click Edit Properties → All
 
