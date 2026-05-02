@@ -117,3 +117,6 @@ Audit Log Entries:
 Audit Log of Account being disabled showing AccountEnabled chaning from true to false:
 
 <img src="Screenshots/audit logs/audit-log-disable.png" width="1000"/>
+
+## Conclusion
+This lab simulated a real-world IAM workflow including user and group creation, department transfers, and account deprovisioning. Through the joiner, mover, and leaver process I gained hands-on experience managing user accounts, controlling group-based access, and applying least privilege principles. These skills directly reflect how identity and access management is handled in enterprise environments where controlling who has access to what is a core responsibility.
