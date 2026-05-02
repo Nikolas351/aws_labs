@@ -72,3 +72,8 @@ Click Members → Checkbox User → Remove
 
 <img src="Screenshots/mover/dan-removal.png" width="800"> 
 
+Click Groups → All Groups → Choose Users New Department Group
+
+Click Members → Add Members → Choose Appropriate User
+
+<img src="Screenshots/mover/dan-added.png" width="800"> 
