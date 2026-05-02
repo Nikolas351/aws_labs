@@ -114,4 +114,6 @@ Audit Log Entries:
   </tr>
 </table>
 
+Audit Log Entry of Disabled account showing AccountEnabled chaning from true to false
 
+<img src="Screenshots/audit-logs/audit-log-disable.png" width="800"/>
