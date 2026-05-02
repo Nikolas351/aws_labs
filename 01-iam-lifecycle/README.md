@@ -27,4 +27,8 @@ List of all created users
 <img src="Screenshots/created/users-list.png" width="800">
 
 ## Step 3: Create Security Groups 
+Click New Group 
+Enter group name and description
+Select:
+- Group Type: Security
 
