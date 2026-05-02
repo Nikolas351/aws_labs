@@ -19,5 +19,6 @@ Fill in:
 - User properties (User type, Job Title, Department)
 
 Set or auto generate password
-![Users CSV](Screenshots/created/user-create.png)
+<img src="Screenshots/created/user-create.png" width="200" height="100">
+
 ![Users CSV](Screenshots/created/users-list.png)
