@@ -101,3 +101,6 @@ Uncheck the Account enabled box
   <img src="Screenshots/leaver/eve-disabled.png" width="530"/>
 </p>
 
+# Part 4: Audit Log Review
+
+
