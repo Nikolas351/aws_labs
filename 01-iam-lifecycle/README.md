@@ -49,5 +49,6 @@ Go to Members tab
 Click Add Members
 
 Select the appropriate user
+
 <img src="Screenshots/created/eng-team.png" width="800">
 
