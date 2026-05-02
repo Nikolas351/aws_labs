@@ -36,4 +36,4 @@ Select:
 - Group Owners (My admin account)
 
 <img src="Screenshots/created/group-create.png" width="450" height="350">
-<img src="Screenshots/created/group-list.png" width="450" height="350">
+<img src="Screenshots/created/group-list.png" width="800">
