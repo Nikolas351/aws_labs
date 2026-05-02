@@ -44,9 +44,10 @@ List of all created groups:
 ## Step 4: Add user to groups
 Click on All Groups → Choose specific group
 
-Go to members tab
+Go to Members tab
 
-Click add members
+Click Add Members
 
 Select the appropriate user
+<img src="Screenshots/created/eng-team.png" width="800">
 
