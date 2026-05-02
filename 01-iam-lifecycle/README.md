@@ -11,4 +11,10 @@ Created two CSV files to represent simulated company data. Roles CSV mapped each
 
 ![Roles CSV](Screenshots/created/roles-csv.png)
 
-## Step 2:
+## Step 2: Create User Accounts
+Click New User → Create New User → 
+Fill in: 
+- User principal name
+- User display name
+- User properties (User type, Job Title, Department)
+Set or auto generate password
