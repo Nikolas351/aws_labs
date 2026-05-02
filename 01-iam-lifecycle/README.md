@@ -77,3 +77,5 @@ Click Groups → All Groups → Choose Users New Department Group
 Click Members → Add Members → Choose Appropriate User
 
 <img src="Screenshots/mover/dan-added.png" width="800"> 
+
+# Part 3: Leaver — Deprovision and Disable User Account
