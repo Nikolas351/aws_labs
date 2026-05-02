@@ -60,4 +60,4 @@ Click on Users → Choose Appropriate User
 
 Click Edit Properties → All
 
-Change corresponding properties to appropriate department
+Change corresponding properties to appropriate department (Job Title, Department, etc)
