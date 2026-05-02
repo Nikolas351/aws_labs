@@ -21,5 +21,5 @@ Fill in:
 Set or auto generate password
 
 <img src="Screenshots/created/user-create.png" width="500" height="400">
+<img src="Screenshots/created/users-list.png" width="500" height="400">
 
-![Users CSV](Screenshots/created/users-list.png)
