@@ -30,6 +30,7 @@ List of all created users
 Click New Group 
 
 Enter group name and description
+
 Select:
 - Group Type: Security
 
