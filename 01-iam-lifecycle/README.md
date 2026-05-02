@@ -45,6 +45,8 @@ List of all created groups:
 Click on All Groups → Choose specific group
 
 Go to members tab
+
 Click add members
+
 Select the appropriate user
 
