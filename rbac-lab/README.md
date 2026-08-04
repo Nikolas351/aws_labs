@@ -1,4 +1,4 @@
-# Lab 01: User Lifecycle Management (Provisioning and Deprovisioning) 
+# Lab 01: 2. Role Based Access Control Design
 ## Objective
 This lab focuses on managing the full user lifecycle in Microsoft Entra ID, including user and group creation, transferring users between departments, and deprovisioning accounts. 
 
@@ -6,5 +6,3 @@ The goal is to simulate real-world IAM operations such as joiner, mover, and lea
 
 ## Step 1: Create Roles and Users CSV
 Created two CSV files to represent simulated company data. Roles CSV mapped each department, Users CSV mapped user's name, department, job title, and status.
-
-![Users CSV](Screenshots/created/users-csv.png)
