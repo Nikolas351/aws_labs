@@ -1,6 +1,6 @@
 # AWS Labs
 ## Overview
-This repository is a collection of hands-on labs focused on identity and access management using Amazon Web Services(AWS).
+This repository is a collection of hands-on labs focused on identity and access management using Amazon Web Services (AWS).
 
 These labs are designed to mimic real-world IAM operations by working in AWS and progressively implementing more advanced skills and concepts.
 
