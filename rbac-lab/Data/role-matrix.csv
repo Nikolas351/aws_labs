@@ -1,0 +1,5 @@
+Role,Permissions,RestrictedAccess
+Software Engineer,Code Repositories and Dev Tools,Finance Apps and HR System
+Financial Analyst,Finance Applications Only,Code Repositories and HR System
+HR Manager,HRIS and Recruiting Tools,Finance Apps and Code Repositories
+Sales Rep,CRM and Sales Tools,Finance Apps and Code Repositories
