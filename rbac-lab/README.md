@@ -1,4 +1,4 @@
-# Lab 01: 2. Role Based Access Control Design
+# Lab 01: Role Based Access Control Design
 ## Objective
 This lab focuses on managing the full user lifecycle in Microsoft Entra ID, including user and group creation, transferring users between departments, and deprovisioning accounts. 
 
