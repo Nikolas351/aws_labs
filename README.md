@@ -8,7 +8,7 @@ Each lab builds upon the previous topics and skills covered, reflecting how iden
 ## Skills Gained Throughout
 These are the skills I gained throughout the labs:
 <ul><li>User and Group Managment</li>
-  <li></li>Permission/privilege assignment</ul>
+  <li>Permission/privilege assignment</li></ul>
 
 
 ## Labs Created
