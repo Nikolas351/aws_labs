@@ -7,7 +7,7 @@ These labs are designed to mimic real-world IAM operations by working directly i
 Each lab builds upon the previous topics and skills covered, reflecting how identity management is handled in real enterprise environments.
 ## Skills Gained Throughout
 These are the skills I gained throughout the labs:
-<ul><li>Permission/Privilege's assignment</li>
+<ul><li>Permission/privilege assignment</li>
   <li></li></ul>
 
 
