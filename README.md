@@ -13,4 +13,4 @@ These are the skills I gained throughout the labs:
 
 ## Labs Created
 ### Lab 01: Role Based Access Control Design
-Covers user provisioning and deprovisioning, joiner mover leaver workflows, group-based access control, and audit log review through Microsoft's Entra ID
+This lab covered user permission mapping, designing authorization, access validation and privilege reduction.
