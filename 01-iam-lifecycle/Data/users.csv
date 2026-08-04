@@ -1,6 +1,0 @@
-FirstName,LastName,Email,Department,JobTitle,Status
-Alice,Johnson,alice.johnson@corp.com,Engineering,Software Engineer,Active
-Bob,Smith,bob.smith@corp.com,Finance,Financial Analyst,Active
-Carol,White,carol.white@corp.com,HR,HR Manager,Active
-Dan,Lee,dan.lee@corp.com,Engineering,Software Engineer,Mover
-Eve,Brown,eve.brown@corp.com,Sales,Sales Rep,Leaver
