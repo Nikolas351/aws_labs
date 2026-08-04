@@ -1,4 +1,4 @@
-# Azure Entra ID Labs
+# AWS Labs
 ## Overview
 This repository is a collection of hands-on labs focused on identity and access management using Microsoft Azure and Entra ID.
 
