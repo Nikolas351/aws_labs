@@ -26,3 +26,5 @@ Fill in group name and click create
 List of Groups Created: 
 
 <img src="Screenshots/Groups-Created/groups-created.png" width="900" height="800">
+
+## Step 3: Create Working Test Policies and Permissions
