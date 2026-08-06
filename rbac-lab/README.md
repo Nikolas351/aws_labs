@@ -7,4 +7,4 @@ The goal is to simulate enterprise IAM work that reduces risks, simplifies audit
 ## Step 1: Create Roles, Permissions and Access CSV
 Created one CSV file that included multiple roles, permissions and the group access allowed for the permissions.
 
-![Role CSV](Screenshots/created/role-matrix.png)
+![Role CSV](Screenshots/created/role-matrix.csv.png)
