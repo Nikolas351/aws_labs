@@ -16,9 +16,13 @@ Fill and Select:
 - Checkmark Option: Provide user access to the AWS Management Console
 - Set or auto generate password
 
+List of Users Created: 
+
 <img src="Screenshots/Users-Created/users-created.png" width="1050" height="900">
 
 Group: Click IAM User Groups → Create Group → 
 Fill in group name and click create
+
+List of Groups Created: 
 
 <img src="Screenshots/Groups-Created/groups-created.png" width="900" height="800">
