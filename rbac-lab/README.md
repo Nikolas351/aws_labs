@@ -8,3 +8,13 @@ The goal is to simulate enterprise IAM work that reduces risks, simplifies audit
 Created one CSV file that included multiple roles, permissions and the group access allowed for the permissions.
 
 ![Role CSV](Data/role-matrix.png)
+
+## Step 2: Create User Accounts and Groups
+User: Click IAM Users → Create Users → 
+Fill in: User Name
+Checkmark Option: Provide user access to the AWS Management Console
+Set or auto generate password
+
+<img src="Screenshots/Users-Created/users-created.png" width="450" height="350">
+
+Group: Click IAM User Groups → Create Group → 
