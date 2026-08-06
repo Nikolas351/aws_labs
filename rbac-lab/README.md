@@ -1,8 +1,8 @@
 # Lab 01: Role Based Access Control Design
 ## Objective
-This lab focuses on managing the full user lifecycle in Microsoft Entra ID, including user and group creation, transferring users between departments, and deprovisioning accounts. 
+This lab focuses on mapping job functions to permissions and eliminating excessive access. In this lab I define roles, assign permissions, test access boundaries and validate that users can only access what their role requires.
 
-The goal is to simulate real-world IAM operations such as joiner, mover, and leaver workflows while applying access control and least privilege principles throughout. This lab was conducted in a personal Microsoft Entra ID tenant using simulated users and groups to represent a company with multiple departments.
+The goal is to simulate enterprise IAM work that reduces risks, simplifies audits and prevents over privileged accounts. This lab was made in a personal AWS IAM tenant using simulated users, groups and permissions to represent a company with multiple departments and roles.
 
 ## Step 1: Create Roles, Permissions and Access CSV
 Created one CSV file that included multiple roles, permissions and the group access allowed for the permissions.
