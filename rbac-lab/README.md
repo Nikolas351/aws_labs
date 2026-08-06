@@ -19,3 +19,6 @@ Fill and Select:
 <img src="Screenshots/Users-Created/users-created.png" width="1050" height="900">
 
 Group: Click IAM User Groups → Create Group → 
+Fill in group name and click create
+
+<img src="Screenshots/Groups-Created/groups-created.png" width="1050" height="900">
