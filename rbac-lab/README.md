@@ -11,7 +11,8 @@ Created one CSV file that included multiple roles, permissions and the group acc
 
 ## Step 2: Create User Accounts and Groups
 User: Click IAM Users → Create Users → 
-Fill in: User Name
+Fill in: 
+- User Name
 Checkmark Option: Provide user access to the AWS Management Console
 Set or auto generate password
 
