@@ -66,4 +66,4 @@ Repeat for other groups:
 - Sign into AWS IAM Policy Simulator
 - Test Finance Permissions on Finance Group → ✅ Allowed
 
-<img src="Screenshots/Policy-Testing/policy-finance-test.png" width="710" height="660">
+<img src="Screenshots/Policy-Testing/policy-finance-test.png" width="660" height="610">
