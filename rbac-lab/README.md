@@ -29,6 +29,7 @@ List of Groups Created:
 
 ## Step 3: Create Working Test Policies and Permissions
 Click Policy → Create Policy → Add JSON code
+
 Created a custom JSON policy using AI based on department:
 
 <img src="Screenshots/Policy-Created/permissions-json-ex.png" width="900" height="800">
