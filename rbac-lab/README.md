@@ -48,5 +48,12 @@ Repeat for all Policies:
 
 <img src="Screenshots/Policy-Created/list-all-policy.png" width="650" height="500">
 
-## Step 4: Attaching Policy/Permissions to Groups
+## Step 4: Assigning RBAC Roles (Main Part)
+
+Go to IAM user groups → engineering-team → Permissions
+
+- Add Permissions → Attach policies
+- Attach Policy: Engineering Policy
+
+<img src="Screenshots/Policy-Created/eng-team-attached-policy.png" width="650" height="500">
 
