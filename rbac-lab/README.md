@@ -43,3 +43,4 @@ Finance Team Policy:
 <img src="Screenshots/Policy-Created/finance-team-policy.png" width="650" height="500">
 
 Click Create Policy
+Repeat for all Policies:
