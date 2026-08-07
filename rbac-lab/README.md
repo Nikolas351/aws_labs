@@ -61,3 +61,4 @@ Repeat for other groups:
 
 <img src="Screenshots/Policy-Created/groups-with-permissions.png" width="650" height="600">
 
+## Step 5: Validate Permissions
