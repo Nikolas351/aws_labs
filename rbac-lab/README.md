@@ -70,6 +70,6 @@ Repeat for other groups:
 
 Test On Different Users
 
-- Select user: alice.johnson → test permission out of user allowed → ❌ Denied
+- Select user: alice.johnson → test permission out of users allowed permissions → ❌ Denied
 
 <img src="Screenshots/Policy-Testing/policy-test-fail.png" width="660" height="610">
