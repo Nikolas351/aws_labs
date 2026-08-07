@@ -55,5 +55,5 @@ Go to IAM user groups → engineering-team → Permissions
 - Add Permissions → Attach policies
 - Attach Policy: Engineering Policy
 
-<img src="Screenshots/Policy-Created/eng-team-attatched-policy.png" width="650" height="500">
+<img src="Screenshots/Policy-Created/eng-team-attatched-policy.png" width="650" height="600">
 
