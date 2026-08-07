@@ -68,4 +68,8 @@ Repeat for other groups:
 
 <img src="Screenshots/Policy-Testing/policy-finance-test.png" width="660" height="610">
 
-Test
+Test On Different Users
+
+- Select user: alice.johnson → test permission out of user allowed → ❌ Denied
+
+<img src="Screenshots/Policy-Testing/policy-test-fail.png" width="660" height="610">
