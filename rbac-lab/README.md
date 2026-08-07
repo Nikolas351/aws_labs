@@ -48,3 +48,5 @@ Repeat for all Policies:
 
 <img src="Screenshots/Policy-Created/list-all-policy.png" width="650" height="500">
 
+## Step 4: Attaching Policy/Permissions to Groups
+
