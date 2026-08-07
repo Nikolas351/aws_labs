@@ -64,6 +64,8 @@ Repeat for other groups:
 ## Step 5: Validate Permissions
 
 - Sign into AWS IAM Policy Simulator
-- Test Finance Permissions on Finance Group → ✅ Allowed
+- Test Finance Permissions: Select User in finance group → ✅ Allowed
 
 <img src="Screenshots/Policy-Testing/policy-finance-test.png" width="660" height="610">
+
+Test
