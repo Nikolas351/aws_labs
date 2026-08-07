@@ -35,7 +35,10 @@ Created a custom JSON policy using AI based on department:
 <img src="Screenshots/Policy-Created/permissions-json-ex.png" width="600" height="450">
 
 Fill in: 
-- Policy Name
-- Description
+- Policy Name: FinancePolicy
+- Description: Access to finance applications only
+
+Finance Team Policy: 
+<img src="Screenshots/Policy-Created/finance-team-policy.png" width="600" height="450">
 
 Click Create Policy
