@@ -57,3 +57,7 @@ Go to IAM user groups → engineering-team → Permissions
 
 <img src="Screenshots/Policy-Created/eng-team-attatched-policy.png" width="650" height="600">
 
+Repeat for other groups:
+
+<img src="Screenshots/Policy-Created/groups-with-permissions.png" width="650" height="600">
+
