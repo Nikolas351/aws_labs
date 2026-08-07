@@ -53,7 +53,7 @@ Repeat for all Policies:
 Go to IAM user groups → engineering-team → Permissions
 
 - Add Permissions → Attach policies
-- Attach Policy: Engineering Policy
+- Attach Policy: EngineeringPolicy
 
 <img src="Screenshots/Policy-Created/eng-team-attatched-policy.png" width="650" height="600">
 
