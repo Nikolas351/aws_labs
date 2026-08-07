@@ -33,3 +33,9 @@ Click Policy → Create Policy → Add JSON code
 Created a custom JSON policy using AI based on department:
 
 <img src="Screenshots/Policy-Created/permissions-json-ex.png" width="600" height="450">
+
+Fill in: 
+- Policy Name
+- Description
+
+Click Create Policy
