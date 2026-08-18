@@ -75,6 +75,4 @@ Test On Different Users
 <img src="Screenshots/Policy-Testing/policy-test-fail.png" width="660" height="610">
 
 ## Conclusion
-
-Sumbit new
-This lab simulated a real-world IAM workflow including user and group creation, department transfers, and account deprovisioning. Through the joiner, mover, and leaver process I gained hands-on experience managing user accounts, controlling group-based access, and applying least privilege principles. These skills directly reflect how identity and access management is handled in enterprise environments where controlling who has access to what is a core responsibility.
+This lab simulated a real life scenario of user and group creation, role and policy creation, and the assignment of policy's through different departments. I gained hands on experience margining users and groups, controlling which group gets what policy, what each policy does and how its controlled and how to test it in a scenario. These skills reflect how IAM is handled in real life environemnts.
